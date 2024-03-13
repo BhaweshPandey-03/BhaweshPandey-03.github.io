@@ -1,4 +1,2 @@
 
 
-![preview img](/preview.png)
-
